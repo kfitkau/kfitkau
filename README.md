@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **my Stable Diffusion GUI**
+- 🔭 I’m currently working on a **Website** and a **Github Markdown File** to help people understand AI
 
 - 🌱 I’m currently learning **Unreal Engine 5**
 
